@@ -3,8 +3,7 @@ Ukraine
 💫 About me
 
 Currently learning Python & Django
- Email demuraevgenij562@gmail.com
-  Learning backend, improving Python, and exploring modern technologies
+Learning backend, improving Python, and exploring modern technologies
 
 
 🌐 Connect with me
