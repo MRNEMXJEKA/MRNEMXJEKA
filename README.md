@@ -1,17 +1,26 @@
-Backend Developer
-Ukraine
-💫 About me
+<h1 align="center">👋 Hi, I'm Evgeniy</h1>
+<h3 align="center">Backend Developer</h3>
 
-Currently learning Python & Django
-Learning backend, improving Python, and exploring modern technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRNEMXJEKA&label=Profile%20Views&color=007bff&style=for-the-badge" alt="Profile Views"/>
+</p>
 
+---
 
-🌐 Connect with me
+### 💫 About me
+
+- 🐍 Currently learning **Python & Django**
+- 🌱 Learning backend, improving Python, and exploring modern technologies
+
+---
+
+### 🌐 Connect with me
+
 <p align="center">
   <a href="mailto:demuraevgenij562@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/@kuksikiks">
+  <a href="https://t.me/kuksikiks">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://discord.com/users/mrnemxjeka1_38659">
@@ -22,7 +31,10 @@ Learning backend, improving Python, and exploring modern technologies
   </a>
 </p>
 
-My Technology Stack
+---
+
+### 🛠️ My Technology Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -30,7 +42,10 @@ My Technology Stack
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-🏆 GitHub Trophies
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MRNEMXJEKA&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies"/>
 </p>
