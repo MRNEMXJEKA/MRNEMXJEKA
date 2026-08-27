@@ -61,9 +61,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MRNEMXJEKA&theme=darkhub&no-frame=true&column=7" alt="GitHub Trophies"/>
-</p>
